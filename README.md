@@ -1,6 +1,6 @@
 # Currículo - Arthur Haerdy Jr.
 
-Este repositório contém as diferentes versões do meu currículo profissional.
+Este repositório contém as diferentes versões do meu currículo profissional, completo e atualizado.
 
 ## Versões disponíveis:
 
