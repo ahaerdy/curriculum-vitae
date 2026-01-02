@@ -2,7 +2,7 @@
 
 Este repositório contém as diferentes versões do meu currículo profissional.
 
-## Versões disponíveis
+## Versões disponíveis:
 
 - [Currículo Completo (Markdown)](curriculo-completo.md)
 - [Versão ATS - Tecnologia](ats/curriculo-ats-tech.md)
