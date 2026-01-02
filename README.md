@@ -5,7 +5,7 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 ## Versões disponíveis:
 
 - [Currículo Completo (Markdown)](curriculo-completo.md)
-- [Currículo Completo (PDF](pdf/Curriculo_Arthur_Tipo_01_Versao_2.62.pdf)
+- [Currículo Completo (formato PDF)](pdf/Curriculo_Arthur_Tipo_01_Versao_2.62.pdf)
 - [Versão ATS - Tecnologia](ats/curriculo-ats-tech.md)
 - [Versão ATS - Dados](ats/curriculo-ats-data.md)
 
