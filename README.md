@@ -4,9 +4,10 @@ Este repositório contém as diferentes versões do meu currículo profissional,
 
 ## Versões disponíveis:
 
-- [Currículo Completo](curriculo-completo.md)
+- [Currículo Completo (Markdown)](curriculo-completo.md)
+- [Currículo Completo (PDF](pdf/Curriculo_Arthur_Tipo_01_Versao_2.62.pdf)
 - [Versão ATS - Tecnologia](ats/curriculo-ats-tech.md)
 - [Versão ATS - Dados](ats/curriculo-ats-data.md)
-- [PDF Atual](pdf/Arthur_Haerdy_CV.pdf)
+
 
 Última atualização: Janeiro 2026.
